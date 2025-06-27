@@ -1,4 +1,16 @@
 {
-   "auto_welcomeMsg": false,
-   "auto_leaveMsg": false
+  "auto_welcomeMsg": true,
+  "auto_leaveMsg": true,
+  "maintenance": false,
+  "lock_command": [".openai", ".menu"],
+  "blacklist_users": ["628xxx@s.whatsapp.net"],
+  "blacklist_groups": ["1203xxxx@g.us"],
+  "alias": {
+    "halo": "menu",
+    "mulai": "start"
+  },
+  "auto_reply": {
+    "assalamualaikum": "waalaikumsalam, wak",
+    "halo": "hai juga lek!"
+  }
 }
