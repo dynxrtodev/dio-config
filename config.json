@@ -2,7 +2,7 @@
   "auto_welcomeMsg": true,
   "auto_leaveMsg": true,
   "maintenance": false,
-  "lock_command": [".openai", ".menu"],
+  "lock_command": [".openai"],
   "blacklist_users": ["628xxx@s.whatsapp.net"],
   "blacklist_groups": ["1203xxxx@g.us"],
   "alias": {
